@@ -17,9 +17,12 @@
   <img align="center" alt="sal-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="sal-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="sal-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" width="150" height="150" src="https://github.com/dinosalro/dinosalro/blob/main/ezgif.com-gif-maker.gif"</a>
 </div>
-  
-  ##
+    <img align="right" width="150" height="150" src="https://github.com/dinosalro/dinosalro/blob/main/ezgif.com-gif-maker.gif"</a>
+ 
+ 
+ ##
 <div> 
   <a href="https://www.linkedin.com/in/ana-clara-dantas-8116a7218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:acdclara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
