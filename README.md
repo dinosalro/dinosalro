@@ -20,7 +20,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="right" width="150" height="150" src="https://github.com/dinosalro/dinosalro/blob/main/sal.gif"></a>
 </div>
-   <img align="right" width="150" height="150" src="https://github.com/dinosalro/dinosalro/blob/main/sal.gif"></a>
+   
    
   
   <!-- Redes sociais -->
