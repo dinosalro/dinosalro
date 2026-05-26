@@ -1,5 +1,4 @@
-### Oi, eu sou a Sal ✨
-- Estou estudando para ser uma SUPER desenvolvedora full stack 🐸
+### Oi, eu sou a Sal
 
 <!--- Statuzinhos abaixo. -->
 <!--  <div style"display: flex">
